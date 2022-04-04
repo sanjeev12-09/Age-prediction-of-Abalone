@@ -1,0 +1,2 @@
+# Age-prediction-of-Abalone
+In this we will use Abalone dataset for classification  Abalone is a type of consumable snail whose price varies as per its age . The aim is to predict the age of abalone from physical measurements. The age of abalone is traditionally determined by cutting the shell throgh the cone, staining it and count the number of rings through microscope - a boring and time consuming task. Other measurements which are easier to obtain is to predict the age.
